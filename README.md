@@ -9,7 +9,6 @@
 </p>
 
 ## 目次
-
 - [Modern\_JavaScript](#modern_javascript)
   - [目次](#目次)
   - [プロジェクト名](#プロジェクト名)
@@ -20,8 +19,10 @@
     - [TypeScriptで「ブロック スコープの変数を再宣言することはできません。」と言われたら・・・](#typescriptでブロック-スコープの変数を再宣言することはできませんと言われたら)
     - [Github Copilot ショートカットキー\&コマンド一覧](#github-copilot-ショートカットキーコマンド一覧)
 
+
 ## プロジェクト名
 モダンなJavaScirptを少し学習してみる
+
 
 ## プロジェクトについて
 HTMLレベル2を取得したため、JavaScriptのモダンな書き方を最後に学習する。
@@ -31,6 +32,7 @@ HTMLレベル2を取得したため、JavaScriptのモダンな書き方を最�
 途中、GitHub Copilot を使ってみたので、さらにコメント構成は変わってる）
 ・・・GitHub Copilot が便利すぎる。
 
+
 ## 環境
 <!-- 言語、フレームワーク、ミドルウェア、インフラの一覧とバージョンを記載 -->
 | 言語・フレームワーク | バージョン |
@@ -39,34 +41,36 @@ HTMLレベル2を取得したため、JavaScriptのモダンな書き方を最�
 | JavaScript           | ES6～      |
 | TypeScript           | 5.7.3      |
 
+
 ## ディレクトリ構成
-Modern_JavaScript
-├── .vscode
-│   ├── launch.json
-│   └── settings.json
-├── 01-value-and-variables
-├── 02-control-structures
-├── 03-functional-programming
-├── 04-object-oriented-programming
-├── 09-asynchronous-programming
-├── 12-iterator-and-generator
-├── 13-type-script
-├── index.js
-├── node_modules
-│   ├── .bin
-│   ├── .package-lock.json
-│   └── typescript
-│       ├── bin
-│       ├── lib
-│       ├── LICENSE.txt
-│       ├── package.json
-│       ├── README.md
-│       ├── SECURITY.md
-│       └── ThirdPartyNoticeText.txt
-├── package-lock.json
-├── package.json
-├── README.md
-└── tsconfig.json
+Modern_JavaScript  
+├── .vscode  
+│   ├── launch.json  
+│   └── settings.json  
+├── 01-value-and-variables  
+├── 02-control-structures  
+├── 03-functional-programming  
+├── 04-object-oriented-programming  
+├── 09-asynchronous-programming  
+├── 12-iterator-and-generator  
+├── 13-type-script  
+├── index.js  
+├── node_modules  
+│   ├── .bin  
+│   ├── .package-lock.json  
+│   └── typescript  
+│       ├── bin  
+│       ├── lib  
+│       ├── LICENSE.txt  
+│       ├── package.json  
+│       ├── README.md  
+│       ├── SECURITY.md  
+│       └── ThirdPartyNoticeText.txt  
+├── package-lock.json  
+├── package.json  
+├── README.md  
+└── tsconfig.json  
+
 
 ## トラブルシューティング
 ### TypeScriptで「ブロック スコープの変数を再宣言することはできません。」と言われたら・・・
