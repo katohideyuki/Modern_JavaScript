@@ -1,0 +1,23 @@
+{
+  "name": "modern_javascript",
+  "version": "1.0.0",
+  "description": "モダンなJavaScirptを少し学習してみる",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katohideyuki/Modern_JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katohideyuki/Modern_JavaScript/issues"
+  },
+  "homepage": "https://github.com/katohideyuki/Modern_JavaScript#readme",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
