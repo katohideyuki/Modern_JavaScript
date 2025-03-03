@@ -1,6 +1,3 @@
-# Modern_JavaScript
-モダンなJavaScirptを少し学習してみる
-
 <!-- シールド一覧 -->
 <p style="display: inline">
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic">
